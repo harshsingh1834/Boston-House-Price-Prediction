@@ -72,8 +72,11 @@ Project Structure
 
 boston-house-price-prediction/
 │
+
 ├── boston-house-prices.csv    # Dataset file
+
 ├── boston_house_prediction.ipynb # Jupyter notebook with code
+
 ├── README.md                  # This file
 
 Setup Instructions
